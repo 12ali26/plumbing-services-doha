@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" width="640" height="380" role="img" aria-label="Plumbing Electric Maintenance Service, single colour">
+<title>Plumbing Electric Maintenance Service — single colour (engraving, stamps, one-colour print)</title>
+<desc>Fill is currentColor. Set the color attribute on an ancestor, or override the default group color, to reproduce in any single ink.</desc>
+<defs>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&amp;family=Noto+Kufi+Arabic:wght@400;700&amp;display=swap');
+text { font-family: Archivo, Helvetica, sans-serif; fill: currentColor; }
+.eyebrow { font-weight: 600; font-stretch: 112%; letter-spacing: 0.42em; text-transform: uppercase; font-size: 16px; }
+.name { font-weight: 800; font-stretch: 70%; letter-spacing: -0.005em; text-transform: uppercase; font-size: 76px; }
+.tagline { font-weight: 600; font-stretch: 100%; letter-spacing: 0.135em; text-transform: uppercase; font-size: 25px; }
+.arabic { font-family: 'Noto Kufi Arabic', sans-serif; font-weight: 400; font-size: 22px; }
+</style>
+</defs>
+<g color="#191A1C">
+<text x="40" y="52.8" class="eyebrow">Doha · Qatar</text>
+<rect x="40" y="73.2" width="560" height="4" fill="currentColor"/>
+<text x="40" y="150" class="name">Plumbing</text>
+<text x="40" y="219.92" class="name">Electric</text>
+<text x="40" y="259.04" class="tagline">Maintenance Service</text>
+<rect x="40" y="282.54" width="560" height="2" fill="currentColor"/>
+<text x="600" y="312.14" text-anchor="end" direction="rtl" class="arabic">خدمات صيانة السباكة والكهرباء</text>
+</g>
+</svg>

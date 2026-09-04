@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Plumbing Electric Maintenance Service">
+  <rect width="64" height="64" rx="10" fill="#7A1230"/>
+  <text x="32" y="41" text-anchor="middle" fill="#F3EEE5"
+        font-family="Archivo, Arial Narrow, Arial, sans-serif" font-weight="800"
+        font-size="30" letter-spacing="-1" style="font-stretch:condensed">PE</text>
+  <rect x="20" y="46" width="24" height="3" fill="#E8B04B"/>
+</svg>

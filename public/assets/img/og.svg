@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Plumbing Electric Maintenance Service — Doha, Qatar">
+  <defs>
+    <style>
+      text { font-family: Archivo, "Helvetica Neue", Arial, sans-serif; }
+      .name { font-weight: 800; letter-spacing: -2px; }
+    </style>
+  </defs>
+  <rect width="1200" height="630" fill="#191A1C"/>
+  <rect x="0" y="0" width="14" height="630" fill="#7A1230"/>
+  <text x="80" y="150" fill="#E8B04B" font-size="26" font-weight="700" letter-spacing="8">DOHA · QATAR</text>
+  <rect x="80" y="176" width="620" height="4" fill="#F3EEE5"/>
+  <text x="76" y="300" class="name" fill="#F3EEE5" font-size="120">PLUMBING</text>
+  <text x="76" y="410" class="name" fill="#E8B04B" font-size="120">ELECTRIC</text>
+  <text x="80" y="470" fill="#F3EEE5" font-size="34" font-weight="600" letter-spacing="6">MAINTENANCE SERVICE</text>
+  <text x="80" y="545" fill="#c9c3b7" font-size="30">Fast plumbing, electrical, pump &amp; water-heater help for homes &amp; businesses</text>
+  <text x="80" y="588" fill="#1FA855" font-size="30" font-weight="700">Call or WhatsApp · 24/7 emergency response</text>
+</svg>

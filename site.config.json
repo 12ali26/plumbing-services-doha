@@ -1,0 +1,53 @@
+{
+  "business": {
+    "name": "Plumbing Electric Maintenance Service",
+    "shortName": "Plumbing Electric",
+    "nameArabic": "خدمات صيانة السباكة والكهرباء",
+    "tagline": "Fast, reliable plumbing & electrical maintenance in Doha",
+    "descriptionShort": "Plumbing, electrical, water-pump, water-tank, water-heater and general maintenance for homes and businesses in Doha, Qatar. Call or WhatsApp for fast help.",
+    "areaServed": "Doha and surrounding areas, Qatar",
+    "priceRange": "$$"
+  },
+  "contact": {
+    "phonePrimary": "+97431394550",
+    "phonePrimaryDisplay": "+974 3139 4550",
+    "phoneSecondary": "+97431475159",
+    "phoneSecondaryDisplay": "+974 3147 5159",
+    "showSecondaryPhone": true,
+    "whatsapp": "97431394550",
+    "email": "contact@dohaplumberservices.com",
+    "addressLocality": "Doha",
+    "addressRegion": "Doha",
+    "addressCountry": "QA",
+    "streetAddress": "",
+    "mapEmbedUrl": "",
+    "hours247": true,
+    "hoursDisplay": "24/7 emergency response",
+    "hoursNote": "Confirm whether 24/7 means phone availability, dispatch, or both before launch."
+  },
+  "site": {
+    "url": "https://dohaplumberservices.com",
+    "locale": "en_QA",
+    "lang": "en",
+    "gaMeasurementId": "",
+    "generateCname": true
+  },
+  "forms": {
+    "provider": "web3forms",
+    "endpoint": "https://api.web3forms.com/submit",
+    "accessKey": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/plumbingelectricdoha/",
+    "instagram": "",
+    "youtube": "",
+    "whatsappLink": "https://wa.me/97431394550"
+  },
+  "flags": {
+    "showReviews": false,
+    "showExperienceYears": false,
+    "experienceYears": "",
+    "publishStreetAddress": false,
+    "showPendingVerificationNotice": true
+  }
+}

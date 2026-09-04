@@ -1,0 +1,21 @@
+{
+  "name": "Plumbing Electric Maintenance Service",
+  "short_name": "Plumbing Electric",
+  "description": "Plumbing, electrical, water-pump, water-tank, water-heater and general maintenance for homes and businesses in Doha, Qatar. Call or WhatsApp for fast help.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3EEE5",
+  "theme_color": "#7A1230",
+  "icons": [
+    {
+      "src": "/assets/img/logo/avatar-square.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

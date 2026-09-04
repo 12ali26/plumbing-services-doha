@@ -1,0 +1,13 @@
+{
+  "name": "plumbing-services-doha",
+  "version": "1.0.0",
+  "description": "Marketing website for Plumbing Electric Maintenance Service, Doha, Qatar. Static site, no dependencies.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build/build.mjs",
+    "serve": "node build/build.mjs && node --watch-path=./build --watch-path=./src -e \"\" >/dev/null 2>&1; npx --yes serve public",
+    "start": "node build/build.mjs && (cd public && python3 -m http.server 8080)"
+  },
+  "license": "MIT"
+}
