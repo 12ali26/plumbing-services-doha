@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="360" height="220" role="img" aria-label="Plumbing Electric Maintenance Service, reversed on ink">
+<title>Plumbing Electric Maintenance Service — reversed, ink</title>
+<defs>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&amp;display=swap');
+text { font-family: Archivo, Helvetica, sans-serif; text-transform: uppercase; fill: #F3EEE5; }
+.name { font-weight: 800; font-stretch: 70%; font-size: 44px; }
+.tagline { font-weight: 600; font-stretch: 100%; letter-spacing: 0.135em; font-size: 14px; }
+</style>
+</defs>
+<rect width="360" height="220" fill="#191A1C"/>
+<rect x="32" y="44" width="296" height="3" fill="#F3EEE5"/>
+<text x="32" y="91.2" class="name">Plumbing</text>
+<text x="32" y="131.68" class="name">Electric</text>
+<text x="32" y="156.16" class="tagline">Maintenance Service</text>
+</svg>

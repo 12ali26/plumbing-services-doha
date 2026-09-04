@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 130" width="420" height="130" role="img" aria-label="Plumbing Electric — Maintenance Service, Doha">
+<title>Plumbing Electric — horizontal lockup (header &amp; invoice)</title>
+<defs>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&amp;display=swap');
+text { font-family: Archivo, Helvetica, sans-serif; text-transform: uppercase; }
+.name { font-weight: 800; font-stretch: 70%; font-size: 34px; fill: #191A1C; }
+.tagline { font-weight: 600; font-stretch: 100%; letter-spacing: 0.2em; font-size: 12px; fill: #5A544B; }
+</style>
+</defs>
+<rect x="0.5" y="0.5" width="419" height="129" fill="#F3EEE5" stroke="#D5CCBC"/>
+<rect x="28" y="38" width="4" height="52" fill="#7A1230"/>
+<text x="48" y="65.2" class="name">Plumbing Electric</text>
+<text x="48" y="84.56" class="tagline">Maintenance Service · Doha</text>
+</svg>
